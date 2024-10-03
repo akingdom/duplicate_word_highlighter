@@ -3,3 +3,5 @@ Standalone HTML page to help quickly identify and remove duplicate runs of text.
 
 ## Screenshot:
 ![Visual screenshot of the web page](screenshot.png)
+
+[**Live version**](https://akingdom.github.io/duplicate_word_highlighter/duplicate_word_highlighter.html)
